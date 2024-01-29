@@ -234,7 +234,9 @@ def replacement_shell_auto(url):
                         all_reply_shell = f"""This is a replacement
         
 Shell URL: {replacement_shell}
+
 Proof for not phishing detected: {Proof_for_not_phishing}
+
 Proof for upload working: {Proof_for_upload_working}
 Screen: {Screen_of_shell}
         
